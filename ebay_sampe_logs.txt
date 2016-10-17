@@ -1,0 +1,67 @@
+
+Sun Oct 16 2016 21:36:41 GMT-0700 (Pacific Daylight Time) : eBay server started running; listening on port 3000
+Sun Oct 16 2016 21:36:45 GMT-0700 (Pacific Daylight Time) : New user signed up succesfully : princeofalltimes@gmail.com
+Sun Oct 16 2016 21:37:09 GMT-0700 (Pacific Daylight Time) : User signed in succesfully : princejacobchandy@gmail.com
+Sun Oct 16 2016 21:37:10 GMT-0700 (Pacific Daylight Time) : User visited "homepage" : prince
+Sun Oct 16 2016 21:37:27 GMT-0700 (Pacific Daylight Time) : User visited "indexpage", redirected to "homepage" : prince
+Sun Oct 16 2016 21:37:32 GMT-0700 (Pacific Daylight Time) : User visited "homepage" : prince
+Sun Oct 16 2016 21:37:37 GMT-0700 (Pacific Daylight Time) : User added a new item to his shopping cart : prince added Razer Kraken; 1(Quantity)
+Sun Oct 16 2016 21:37:37 GMT-0700 (Pacific Daylight Time) : User visited "shoppingcartpage" : prince
+Sun Oct 16 2016 21:37:41 GMT-0700 (Pacific Daylight Time) : User visited "checkoutpage" : prince
+Sun Oct 16 2016 21:37:44 GMT-0700 (Pacific Daylight Time) : User made a new purchase, checkout successful and bill have been generated : prince
+Sun Oct 16 2016 21:37:44 GMT-0700 (Pacific Daylight Time) : User visited "successcheckoutpage" : prince
+Sun Oct 16 2016 21:37:48 GMT-0700 (Pacific Daylight Time) : User visited "homepage" : prince
+Sun Oct 16 2016 21:37:58 GMT-0700 (Pacific Daylight Time) : User bid an item : prince bid Epiphone Electric Guitar; 1(Quantity)
+Sun Oct 16 2016 21:38:06 GMT-0700 (Pacific Daylight Time) : User added a new item to his shopping cart : prince added Apple iPhone 6S Plus; 2(Quantity)
+Sun Oct 16 2016 21:38:06 GMT-0700 (Pacific Daylight Time) : User visited "shoppingcartpage" : prince
+Sun Oct 16 2016 21:38:11 GMT-0700 (Pacific Daylight Time) : User removed an item from his shopping cart : prince removed Apple iPhone 6S Plus
+Sun Oct 16 2016 21:38:11 GMT-0700 (Pacific Daylight Time) : User visited "shoppingcartpage" : prince
+Sun Oct 16 2016 21:38:14 GMT-0700 (Pacific Daylight Time) : User visited "homepage" : prince
+Sun Oct 16 2016 21:38:20 GMT-0700 (Pacific Daylight Time) : User added a new item to his shopping cart : prince added Apple iPhone 6S Plus; 1(Quantity)
+Sun Oct 16 2016 21:38:20 GMT-0700 (Pacific Daylight Time) : User visited "shoppingcartpage" : prince
+Sun Oct 16 2016 21:38:21 GMT-0700 (Pacific Daylight Time) : User visited "checkoutpage" : prince
+Sun Oct 16 2016 21:38:40 GMT-0700 (Pacific Daylight Time) : User visited "checkoutpage" : prince
+Sun Oct 16 2016 21:38:40 GMT-0700 (Pacific Daylight Time) : User updated his payment information (credit card details) : prince
+Sun Oct 16 2016 21:38:44 GMT-0700 (Pacific Daylight Time) : User updated his shipping address information : prince
+Sun Oct 16 2016 21:38:44 GMT-0700 (Pacific Daylight Time) : User visited "checkoutpage" : prince
+Sun Oct 16 2016 21:38:48 GMT-0700 (Pacific Daylight Time) : User made a new purchase, checkout successful and bill have been generated : prince
+Sun Oct 16 2016 21:38:48 GMT-0700 (Pacific Daylight Time) : User visited "successcheckoutpage" : prince
+Sun Oct 16 2016 21:38:51 GMT-0700 (Pacific Daylight Time) : User visited "homepage" : prince
+Sun Oct 16 2016 21:38:53 GMT-0700 (Pacific Daylight Time) : User visited "profilepage" : prince
+Sun Oct 16 2016 21:39:24 GMT-0700 (Pacific Daylight Time) : User created a new advertisement (normal product) : prince is selling Acoustic Guitar; 1(Quantity)
+Sun Oct 16 2016 21:39:24 GMT-0700 (Pacific Daylight Time) : User visited "profilepage" : prince
+Sun Oct 16 2016 21:40:07 GMT-0700 (Pacific Daylight Time) : User created a new advertisement (bid product) : prince is selling Schwinn Used Bike; 1(Quantity)
+Sun Oct 16 2016 21:40:07 GMT-0700 (Pacific Daylight Time) : User visited "profilepage" : prince
+Sun Oct 16 2016 21:40:13 GMT-0700 (Pacific Daylight Time) : User visited "shoppingcartpage" : prince
+Sun Oct 16 2016 21:40:15 GMT-0700 (Pacific Daylight Time) : User visited "homepage" : prince
+Sun Oct 16 2016 21:41:18 GMT-0700 (Pacific Daylight Time) : User signed out : prince
+Sun Oct 16 2016 21:41:18 GMT-0700 (Pacific Daylight Time) : Rendered login/register page to new user
+Sun Oct 16 2016 21:41:27 GMT-0700 (Pacific Daylight Time) : User signed in succesfully : princejacobchandy@gmail.com
+Sun Oct 16 2016 21:41:27 GMT-0700 (Pacific Daylight Time) : User visited "homepage" : prince
+Sun Oct 16 2016 21:42:33 GMT-0700 (Pacific Daylight Time) : User added a new item to his shopping cart : prince added Razer Kraken; 4(Quantity)
+Sun Oct 16 2016 21:42:33 GMT-0700 (Pacific Daylight Time) : User visited "shoppingcartpage" : prince
+Sun Oct 16 2016 21:42:36 GMT-0700 (Pacific Daylight Time) : User visited "homepage" : prince
+Sun Oct 16 2016 21:42:40 GMT-0700 (Pacific Daylight Time) : User added a new item to his shopping cart : prince added GoPro HERO4; 2(Quantity)
+Sun Oct 16 2016 21:42:40 GMT-0700 (Pacific Daylight Time) : User visited "shoppingcartpage" : prince
+Sun Oct 16 2016 21:42:44 GMT-0700 (Pacific Daylight Time) : User removed an item from his shopping cart : prince removed Razer Kraken
+Sun Oct 16 2016 21:42:44 GMT-0700 (Pacific Daylight Time) : User visited "shoppingcartpage" : prince
+Sun Oct 16 2016 21:42:47 GMT-0700 (Pacific Daylight Time) : User visited "homepage" : prince
+Sun Oct 16 2016 21:42:52 GMT-0700 (Pacific Daylight Time) : User added an item to his shopping cart : prince added GoPro HERO4; 5(Quantity)
+Sun Oct 16 2016 21:42:52 GMT-0700 (Pacific Daylight Time) : User visited "shoppingcartpage" : prince
+Sun Oct 16 2016 21:42:54 GMT-0700 (Pacific Daylight Time) : User visited "checkoutpage" : prince
+Sun Oct 16 2016 21:42:57 GMT-0700 (Pacific Daylight Time) : User made a new purchase, checkout successful and bill have been generated : prince
+Sun Oct 16 2016 21:42:57 GMT-0700 (Pacific Daylight Time) : User visited "successcheckoutpage" : prince
+Sun Oct 16 2016 21:42:59 GMT-0700 (Pacific Daylight Time) : User visited "homepage" : prince
+Sun Oct 16 2016 21:43:01 GMT-0700 (Pacific Daylight Time) : User visited "profilepage" : prince
+Sun Oct 16 2016 21:43:05 GMT-0700 (Pacific Daylight Time) : User visited "homepage" : prince
+Sun Oct 16 2016 21:43:57 GMT-0700 (Pacific Daylight Time) : User visited "shoppingcartpage" : prince
+Sun Oct 16 2016 21:43:59 GMT-0700 (Pacific Daylight Time) : User visited "checkoutpage" : prince
+Sun Oct 16 2016 21:43:59 GMT-0700 (Pacific Daylight Time) : User visited "shoppingcartpage" : prince
+Sun Oct 16 2016 21:44:02 GMT-0700 (Pacific Daylight Time) : User visited "homepage" : prince
+Sun Oct 16 2016 21:44:05 GMT-0700 (Pacific Daylight Time) : User added a new item to his shopping cart : prince added Razer Blade Laptop; 1(Quantity)
+Sun Oct 16 2016 21:44:05 GMT-0700 (Pacific Daylight Time) : User visited "shoppingcartpage" : prince
+Sun Oct 16 2016 21:44:07 GMT-0700 (Pacific Daylight Time) : User visited "checkoutpage" : prince
+Sun Oct 16 2016 21:44:19 GMT-0700 (Pacific Daylight Time) : User visited "failcheckoutpage" : prince
+Sun Oct 16 2016 21:44:21 GMT-0700 (Pacific Daylight Time) : User visited "homepage" : prince
+Sun Oct 16 2016 21:45:36 GMT-0700 (Pacific Daylight Time) : User signed out : prince
+Sun Oct 16 2016 21:45:36 GMT-0700 (Pacific Daylight Time) : Rendered login/register page to new user
